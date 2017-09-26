@@ -1,2 +1,2 @@
 # AI-Projects
-my implementation of the Berkley AI Pacman Projects
+My implementation of the Berkley AI Pacman Projects
